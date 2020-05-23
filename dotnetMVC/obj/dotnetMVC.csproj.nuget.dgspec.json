@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\dotnetMVC\\dotnetMVC.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\dotnetMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\dotnetMVC\\dotnetMVC.csproj": {
+    "C:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\dotnetMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\dotnetMVC\\dotnetMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\dotnetMVC.csproj",
         "projectName": "dotnetMVC",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\dotnetMVC\\dotnetMVC.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\dotnetMVC.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\dotnetMVC\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

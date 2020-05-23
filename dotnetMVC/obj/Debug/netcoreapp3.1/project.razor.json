@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\dotnetMVC.csproj",
+  "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\dotnetMVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,98 +20521,108 @@
   "RootNamespace": "dotnetMVC",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\ChangePass_AD.cshtml",
-      "TargetPath": "Views\\Home\\ChangePass_AD.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\ListQL_AD.cshtml",
-      "TargetPath": "Views\\Home\\ListQL_AD.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Student\\Detail.cshtml",
-      "TargetPath": "Views\\Student\\Detail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\Footer.cshtml",
-      "TargetPath": "Views\\Home\\Footer.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\Header.cshtml",
-      "TargetPath": "Views\\Home\\Header.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Student\\Index.cshtml",
-      "TargetPath": "Views\\Student\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\Login.cshtml",
-      "TargetPath": "Views\\Home\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\Start.cshtml",
-      "TargetPath": "Views\\Home\\Start.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\AddQL_AD.cshtml",
-      "TargetPath": "Views\\Home\\AddQL_AD.cshtml",
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Student\\Detail.cshtml",
+      "TargetPath": "Views\\Student\\Detail.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\Header.cshtml",
+      "TargetPath": "Views\\Home\\Header.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\Home.cshtml",
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\ChangePass_AD.cshtml",
+      "TargetPath": "Views\\Home\\ChangePass_AD.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\Home.cshtml",
       "TargetPath": "Views\\Home\\Home.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Admin\\ChangePass.cshtml",
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\AddQL_AD.cshtml",
+      "TargetPath": "Views\\Home\\AddQL_AD.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Admin\\ChangePass.cshtml",
       "TargetPath": "Views\\Admin\\ChangePass.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\Home\\About.cshtml",
-      "TargetPath": "Views\\Home\\About.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\dotnetMVC\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\Login.cshtml",
+      "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\ListQL_AD.cshtml",
+      "TargetPath": "Views\\Home\\ListQL_AD.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Student\\Index.cshtml",
+      "TargetPath": "Views\\Student\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\Footer.cshtml",
+      "TargetPath": "Views\\Home\\Footer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\EditQL_AD.cshtml",
+      "TargetPath": "Views\\Home\\EditQL_AD.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\DetailQL_AD.cshtml",
+      "TargetPath": "Views\\Home\\DetailQL_AD.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\TemplateWeb\\dotnetMVC\\Views\\Home\\Start.cshtml",
+      "TargetPath": "Views\\Home\\Start.cshtml",
       "FileKind": "mvc"
     }
   ],

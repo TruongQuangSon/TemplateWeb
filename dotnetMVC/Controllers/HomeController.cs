@@ -28,6 +28,21 @@ namespace dotnetMVC.Controllers
             return View();
         }
 
+        public IActionResult ConfirmDelete()
+        {
+            return View();
+        }
+
+        public IActionResult DetailQL_AD()
+        {
+            return View();
+        }
+
+        public IActionResult EditQL_AD()
+        {
+            return View();
+        }
+
         public IActionResult ChangePass()
         {
             return View();
